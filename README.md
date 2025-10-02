@@ -1,3 +1,11 @@
+## Integrantes
+
+- ARIEL OMAR LECHE
+- DIEGO ARIEL GUTIERREZ MIRANDA
+- JOSE ALBERTO RUBIO
+- MARIA PAULA COBAS
+- MAURO RUBEN DE NATALE
+
 ### - Clonar repo:
 ```
 git clone https://github.com/Pau-c/lab_auto.git
