@@ -1,3 +1,10 @@
+# Presentación
+<img width="1024" height="681" alt="Copia de Copia de Cheers!" src="https://github.com/user-attachments/assets/f3030b34-0556-4634-986d-95eb3dc70035" />
+
+
+
+---
+
 ## Integrantes
 
 - ARIEL OMAR LECHE
@@ -39,4 +46,5 @@ uv sync
 
 
 #### asegurarse estar en el etorno correcto y activado: De ser necesario correr en terminal: `.venv\Scripts\activate`
+
 
