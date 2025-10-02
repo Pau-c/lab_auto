@@ -6,6 +6,10 @@
 - MARIA PAULA COBAS
 - MAURO RUBEN DE NATALE
 
+csv: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series 
+Elegir confirmed_global.csv 
+
+
 ### - Clonar repo:
 ```
 git clone https://github.com/Pau-c/lab_auto.git
@@ -35,3 +39,4 @@ uv sync
 
 
 #### asegurarse estar en el etorno correcto y activado: De ser necesario correr en terminal: `.venv\Scripts\activate`
+
