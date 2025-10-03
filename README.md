@@ -48,3 +48,7 @@ uv sync
 #### asegurarse estar en el etorno correcto y activado: De ser necesario correr en terminal: `.venv\Scripts\activate`
 
 
+
+prueba-  la platilla es notebook-ariel    y el ejecutable con paramill es pipeline-maestro.   
+
+
