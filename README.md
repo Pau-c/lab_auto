@@ -47,8 +47,15 @@ uv sync
 
 #### asegurarse estar en el etorno correcto y activado: De ser necesario correr en terminal: `.venv\Scripts\activate`
 
+##Version simple:
+### En la carpeta notebooks_v2, en el archivo `run_notebok_simple.py` cambiar la variable `country` debajo de #parametro
+### Correr en la terminal:
+```
+uv run notebooks_v2/run_notebook_simple.py
+```
+>Se generará un notebook dentro de la carpeta notebooks_v2/output con la fecha y el país elegido
 
-
-prueba-  la platilla es notebook-ariel    y el ejecutable con paramill es pipeline-maestro.   
+### Version mas completa
+>correr notebook-ariel
 
 
